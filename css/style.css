@@ -293,6 +293,11 @@ a{
         font-size: 21px;
     }
 }
+@media (max-width: 307px) {
+    .landing-page .header-area .logo a{
+        font-size: 20px;
+    }
+}
 .links-container{
     width: 100%;
     text-align: right;
